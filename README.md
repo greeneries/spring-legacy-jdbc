@@ -1,4 +1,12 @@
-# spring-legacy-jdbc1
+# spring-legacy-jdbc
+
+#### 환경 
+```
+DB : oracle
+Java Version : 8.0
+
+Spring legacy 방식으로 프로젝트 생성 (Spring MVC Project)
+```
 
 #### Spring Legacy Project 생성하기 
 1.  Spring Legacy Project > Templates를 Spring MVC Project 선택 > com.example.demo 입력 > finish 버튼 클릭 
